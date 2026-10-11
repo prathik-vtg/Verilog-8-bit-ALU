@@ -102,6 +102,4 @@ Verilog-8-bit-ALU/
 **HDL:** Verilog  
 **Design Category:** Combinational Logic
 
-## 📄 License
 
-Choose and add an appropriate open-source license if you intend to permit others to reuse, modify, or distribute this project.
